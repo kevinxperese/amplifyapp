@@ -1,11 +1,10 @@
-# Notes on...
-
-## Build A Full-Stack Amplify Application, Using Amazon Amplify
+# Notes on... Build A Full-Stack Amplify Application, Using Amazon Amplify
 
 [Source material](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql)
 
-## Create a new React Application
+## Module 1: HOST REACT APP
 
+### Create a new React Application
 Run these commands from a parent/root directory that you would want to have the project
 folder created. (I ran these in my Git/Bash terminal.)
 
@@ -23,8 +22,7 @@ Here's what that will look like:
 
 ![local-app](docs/react-app-screenshot.png)
 
-## Initialize Git Repository
-
+### Initialize Git Repository
 Run these commands from within the `amplifyapp` directory.
 
 ```
@@ -37,7 +35,7 @@ git push origin master
 (Note, I used https:// protocol instead of ssl, so the second line is:   
   `git remote add origin https://github.com/kevinxperese/amplifyapp`)
 
-## Log in to Amplify Management Console
+### Log in to Amplify Management Console
 I logged in, but then got a screen that said it would take up to 24 hours to 'fully activate'.   
 ![sign-up](docs/aws-sign-up.png)
 
@@ -54,7 +52,7 @@ Which then took me to the AWS Management Console.
 Select AWS Amplify in the Search bar, and it will bring you to this page:   
 ![image missing...doh!]()
 
-## Deploy Your App With AWS Amplify
+### Deploy Your App With AWS Amplify
 * Select "Get Started" button, under Deploy section.
 
 * Select "GitHub" under "From Existing Code," (then "Continue").   
@@ -73,3 +71,11 @@ Select AWS Amplify in the Search bar, and it will bring you to this page:
 https://master.da1q8echd2hj2.amplifyapp.com/
 
 ![online-app](docs/aws-react-app-online.png)
+
+## Module 2: INITIALIZE LOCAL APP
+
+## Module 3: ADD AUTHENTICATION
+
+## Module 4: ADD API AND DATABASE
+
+## Module 5: ADD STORAGE
