@@ -4,6 +4,10 @@
 
 ## Table of Contents
 1. [Module 1: HOST REACT APP](#Module-1)
+2. [Module 2: INITIALIZE LOCAL APP](#Module-2)
+3. [Module 3: ADD AUTHENTICATION](#Module-3)
+4. [Module 4: ADD API AND DATABASE](#Module-4)
+5. [Module 5: ADD STORAGE](#Module-5)
 
 ## Module 1: HOST REACT APP <a name="Module-1"></a>
 
@@ -75,10 +79,10 @@ https://master.da1q8echd2hj2.amplifyapp.com/
 
 ![online-app](docs/aws-react-app-online.png)
 
-## Module 2: INITIALIZE LOCAL APP
+## Module 2: INITIALIZE LOCAL APP <a name="Module-2"></a>
 
-## Module 3: ADD AUTHENTICATION
+## Module 3: ADD AUTHENTICATION <a name="Module-3"></a>
 
-## Module 4: ADD API AND DATABASE
+## Module 4: ADD API AND DATABASE <a name="Module-4"></a>
 
-## Module 5: ADD STORAGE
+## Module 5: ADD STORAGE <a name="Module-5"></a>
