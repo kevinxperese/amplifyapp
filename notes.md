@@ -3,7 +3,7 @@
 [Source material](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql)
 
 ## Table of Contents
-1. [Module 1: HOST REACT APP](##Module-1:-HOST-REACT-APP)
+1. [Module 1: HOST REACT APP](#Module-1:-HOST-REACT-APP)
 
 ## Module 1: HOST REACT APP
 
