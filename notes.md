@@ -3,9 +3,9 @@
 [Source material](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql)
 
 ## Table of Contents
-1. [Module 1: HOST REACT APP](#Module-1:-HOST-REACT-APP)
+1. [Module 1: HOST REACT APP](#Module-1)
 
-## Module 1: HOST REACT APP
+## Module 1: HOST REACT APP <a name="Module-1"></a>
 
 ### Create a new React Application
 Run these commands from a parent/root directory that you would want to have the project
